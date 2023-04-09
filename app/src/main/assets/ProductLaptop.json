@@ -1,0 +1,26 @@
+[{
+  "productName": "Lenovo Slim 7i Pro Gen 7",
+  "productId": "1",
+  "productPrice": "25990000",
+  "productDes": "Loại CPU\nCore i7 12700H\nHãng CPU\nIntel\nCard đồ hoạ rời\nIntel Arc A370M\nDung lượng RAM\n32 GB\nLoại màn hình\nIPS\nKích thước màn hình\n16 inches\nTỷ lệ màn hình\n16:10\nĐộ phân giải\n2560 x 1600 px\nXem cấu hình chi tiết",
+  "productRating": 4.7,
+  "productDisCount": "12%",
+  "productHave": true,
+  "productBrand": "Lenovo",
+  "productImage": "https://images.thinkgroup.vn/unsafe/1000x1000/https://media-api-beta.thinkpro.vn/media/core/products/2022/11/1/lenovo-yoga-slim-7i-pro-thinkpro-01.png",
+  "productCategory": "Laptop Văn Phòng",
+  "productNote": "Deewa"
+},
+  {
+    "productName": "Dell Alienware M15 R6 (Chính hãng) (P109F001BBL)",
+    "productId": "2",
+    "productPrice": "61990000",
+    "productDes": "Loại CPU\nCore i7 12700H\nHãng CPU\nIntel\nCard đồ hoạ rời\nIntel Arc A370M\nDung lượng RAM\n32 GB\nLoại màn hình\nIPS\nKích thước màn hình\n16 inches\nTỷ lệ màn hình\n16:10\nĐộ phân giải\n2560 x 1600 px\nXem cấu hình chi tiết",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "Dell ",
+    "productImage": "https://images.thinkgroup.vn/unsafe/1000x1000/https://media-api-beta.thinkpro.vn/media/core/products/2022/9/27/dell-alienware-m15-r6-thinkpro-1.png",
+    "productCategory": "Laptop Gamming",
+    "productNote": "Deewa"
+  }]

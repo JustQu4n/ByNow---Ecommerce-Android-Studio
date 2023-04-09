@@ -1,0 +1,26 @@
+[{
+  "productName": "Dell XPS 13 9310 2-in-1",
+  "productId": "1",
+  "productPrice": "24790000",
+  "productDes": "Loại CPU\nCore i7 12700H\nHãng CPU\nIntel\nCard đồ hoạ rời\nIntel Arc A370M\nDung lượng RAM\n32 GB\nLoại màn hình\nIPS\nKích thước màn hình\n16 inches\nTỷ lệ màn hình\n16:10\nĐộ phân giải\n2560 x 1600 px\nXem cấu hình chi tiết",
+  "productRating": 4.7,
+  "productDisCount": "12%",
+  "productHave": true,
+  "productBrand": "Dell",
+  "productImage": "https://images.thinkgroup.vn/unsafe/1000x1000/https://media-api-beta.thinkpro.vn/backend/uploads/product/color_images/2020/10/3/xps93102-1s-01.jpg",
+  "productCategory": "Laptop Văn Phòng",
+  "productNote": "Deewa"
+},
+  {
+    "productName": "Acer Predator Helios 300",
+    "productId": "2",
+    "productPrice": "27990000",
+    "productDes": "Loại CPU\nCore i7 12700H\nHãng CPU\nIntel\nCard đồ hoạ rời\nIntel Arc A370M\nDung lượng RAM\n32 GB\nLoại màn hình\nIPS\nKích thước màn hình\n16 inches\nTỷ lệ màn hình\n16:10\nĐộ phân giải\n2560 x 1600 px\nXem cấu hình chi tiết",
+    "productRating": 4.7,
+    "productDisCount": "12%",
+    "productHave": true,
+    "productBrand": "Dell ",
+    "productImage": "https://images.thinkgroup.vn/unsafe/1000x1000/https://media-api-beta.thinkpro.vn/media/core/products/2022/11/5/acer-predator-helios-300-thinkpro-01.png",
+    "productCategory": "Laptop Gamming",
+    "productNote": "Deewa"
+  }]
